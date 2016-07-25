@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239962782101",
+    "project_id": "concrete-area-133411"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239962782101:android:968e5c962f02a2e5",
+        "android_client_info": {
+          "package_name": "net.forlogic.samplelogingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239962782101-ugr43l2vvc5mqo4b8nkpm2ngp8rl3h5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.forlogic.samplelogingoogle",
+            "certificate_hash": "BBB529D141335C5DFD84CDB5CA55BB6DA1B2C7E5"
+          }
+        },
+        {
+          "client_id": "239962782101-bbm8c8da65l0c0jjrvh4sea9hb2asvpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8XwNg0KdVnLRrrF7fM_0GP5RO7WWDbU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

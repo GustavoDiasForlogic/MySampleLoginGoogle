@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/img_profile_photo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="10dp"
+        android:adjustViewBounds="true"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/txv_display_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cicle Friend Display Name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
